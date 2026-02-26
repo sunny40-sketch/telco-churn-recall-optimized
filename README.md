@@ -31,7 +31,3 @@ Business priority: **missing a churner (FN) is worse than contacting a non-churn
 
 ---
 
-## Run
-
-### Dataset
-Place the dataset file at:
