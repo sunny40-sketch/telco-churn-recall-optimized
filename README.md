@@ -50,7 +50,6 @@ Training Pipeline → Saved Model → API → Streamlit UI
 
 ---
 
-<<<<<<< HEAD
 # Machine Learning Pipeline
 
 ### Feature Processing
